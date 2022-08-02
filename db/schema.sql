@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS technerd_db;
+
+CREATE DATABASE technerd_db;
